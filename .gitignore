@@ -1,0 +1,36 @@
+# OS (İşletim Sistemi) Tarafından Üretilen Gizli Dosyalar
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# STM32CubeIDE / Eclipse Derleme Çıktıları
+Debug/
+Release/
+.metadata/
+
+# Derlenmiş Nesne Dosyaları (Compiled Object Files)
+*.o
+*.d
+*.su
+
+# Çalıştırılabilir ve İkili (Binary) Dosyalar
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.out
+
+# Geçici Dosyalar ve Yedekler
+*.bak
+*.log
+*.tmp
+*~
+
+# ST-Link Hata Ayıklama Dosyaları
+*.launch
