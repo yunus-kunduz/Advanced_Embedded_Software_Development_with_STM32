@@ -59,7 +59,7 @@ The projects are categorized by their development stages and core concepts:
 * **Serial Communication:** Termite (RS232 Terminal)
 * **HMI Design:** Nextion Editor
 * **Circuit & Block Diagrams:** Fritzing, Draw.io
-* **Asset Conversion:** Image2LCD / C-Array Generator
+* **Asset Conversion:** CMake
 
 ## 🚀 Engineering Highlights
 - **DMA Integration:** Enabled peripherals to transfer data independently of the processor core.
